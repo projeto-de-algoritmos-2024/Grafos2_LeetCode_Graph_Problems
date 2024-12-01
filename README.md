@@ -1,44 +1,37 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Grafos 2 - LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 62<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 221022275 |  Felipe Amorim de Araújo |
+| -  |  - |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto envolve a resolução de alguns problemas desafiadores do juiz online LeetCode envolvendo os conceitos estudados no conteúdo de Grafos 2 da disciplina de Projeto de Algoritmos. Os problemas resolvidos, links e resoluções podem ser encontrados na tabela a seguir:
+
+| Nome do Problema | Link | Resolução |
+| -- | -- | -- |
+| 2242. Maximum Score of a Node Sequence | [LeetCode](https://leetcode.com/problems/maximum-score-of-a-node-sequence/description/?envType=problem-list-v2&envId=graph) | [Resolução]() |
+|  | [LeetCode]() | [Resolução]() |
+|  | [LeetCode]() | [Resolução]() |
+|  | [LeetCode]() | [Resolução]() |
+|  | [LeetCode]() | [Resolução]() |
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para executar as resoluções, copie o código em cada arquivo e coloque no LeetCode, ou crie casos de testes para execução de cada arquivo
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Vídeo
+
+<!-- colocar link video aqui !-->
 
 
 
