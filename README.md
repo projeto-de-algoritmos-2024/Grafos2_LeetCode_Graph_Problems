@@ -14,7 +14,7 @@ O projeto envolve a resolução de alguns problemas desafiadores do juiz online 
 
 | Nome do Problema | Link | Resolução |
 | -- | -- | -- |
-| 2242. Maximum Score of a Node Sequence | [LeetCode](https://leetcode.com/problems/maximum-score-of-a-node-sequence/description/?envType=problem-list-v2&envId=graph) | [Resolução]() |
+| 1514. Path with Maximum Probability | [LeetCode](https://leetcode.com/problems/path-with-maximum-probability/description/) | [Resolução](/1514_path_with_maximum_probability/Solution.py) |
 |  | [LeetCode]() | [Resolução]() |
 |  | [LeetCode]() | [Resolução]() |
 |  | [LeetCode]() | [Resolução]() |
