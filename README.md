@@ -15,10 +15,8 @@ O projeto envolve a resolução de alguns problemas desafiadores do juiz online 
 | Nome do Problema | Link | Dificuldade | Resolução |
 | -- | -- | -- | -- |
 | 1514. Path with Maximum Probability | [LeetCode](https://leetcode.com/problems/path-with-maximum-probability/description/) | Média | [Resolução](/1514_path_with_maximum_probability/Solution.py) |
-| 2290. Minimum Obstacle Removal to Reach Corner | [LeetCode](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/) |  | [Resolução](/2290_minimum_obstacle_removal_to_reach_corner/Solution.py) |
-| 2699. Modify Graph Edge Weights | [LeetCode](https://leetcode.com/problems/modify-graph-edge-weights/description/) |  | [Resolução](/2699_modify_graph_edge_weights/Solution.py) |
-|  | [LeetCode]() |  | [Resolução]() |
-|  | [LeetCode]() |  | [Resolução]() |
+| 2290. Minimum Obstacle Removal to Reach Corner | [LeetCode](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/) | Difícil | [Resolução](/2290_minimum_obstacle_removal_to_reach_corner/Solution.py) |
+| 2699. Modify Graph Edge Weights | [LeetCode](https://leetcode.com/problems/modify-graph-edge-weights/description/) | Difícil | [Resolução](/2699_modify_graph_edge_weights/Solution.py) |
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
