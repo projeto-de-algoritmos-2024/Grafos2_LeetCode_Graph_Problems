@@ -21,6 +21,10 @@ O projeto envolve a resolução de alguns problemas desafiadores do juiz online 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
+![1](assets/Screenshot%20from%202024-12-02%2023-47-28.png)
+![2](assets/Screenshot%20from%202024-12-02%2023-48-23.png)
+![3](assets/Screenshot%20from%202024-12-02%2023-48-47.png)
+
 ## Instalação 
 **Linguagem**: Python
 
