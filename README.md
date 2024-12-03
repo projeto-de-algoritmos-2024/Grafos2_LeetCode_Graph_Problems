@@ -33,7 +33,7 @@ Para executar as resoluções, copie o código em cada arquivo e coloque no Leet
 
 ## Vídeo
 
-<!-- colocar link video aqui !-->
+https://youtu.be/0PJ89pdYXI4
 
 
 
